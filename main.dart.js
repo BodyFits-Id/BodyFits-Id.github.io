@@ -38446,7 +38446,7 @@ A.Qx.prototype={
 $0(){},
 $S:0}
 A.Qy.prototype={
-$0(){A.lW(this.a,!1).LG("/aboutUs-desktop",null,t.X)},
+$0(){A.lW(this.a,!1).LG("/aboutUs-Desktop",null,t.X)},
 $S:0}
 A.Bn.prototype={
 L(a){return B.zK}}
